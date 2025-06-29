@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Customer
+comment0.text=\r\n\ Represents\ a\ customer\ who\ can\ make\ bookings.\r\n\ Stores\ customer\ contact\ information\ and\ booking\ history.\r\n\ \r\n\ @author\ Sarthak\ Giri\r\n\ @version\ 27/06/2025\r\n
+comment1.params=
+comment1.target=java.lang.String\ getPhoneNumber()
+comment1.text=\r\n\ Gets\ the\ customer's\ phone\ number.\r\n\ \r\n\ @return\ Phone\ number\ as\ a\ string\r\n
+comment2.params=
+comment2.target=Booking\ getBooking()
+comment2.text=\r\n\ Returns\ the\ customer's\ current\ booking.\r\n\ \r\n\ @return\ The\ booking\ object\r\n
+comment3.params=b
+comment3.target=void\ cancelBooking(Booking)
+comment3.text=\r\n\ Cancels\ the\ given\ booking.\r\n\ \r\n\ @param\ b\ Booking\ to\ cancel\r\n
+numComments=4

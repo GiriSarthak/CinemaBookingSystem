@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Show
+comment0.text=\r\n\ Represents\ a\ movie\ show\ with\ date/time,\ theater,\ and\ booking\ info.\r\n\ \r\n\ @author\ Sarthak\ Giri\r\n\ @version\ 27/06/2025\r\n
+comment1.params=
+comment1.target=java.lang.String\ getDetails()
+comment1.text=\r\n\ Returns\ a\ textual\ description\ of\ the\ show.\r\n\ \r\n\ @return\ The\ show\u2019s\ movie\ title\ and\ time\r\n
+comment2.params=row\ seatNumbers
+comment2.target=boolean\ reserveSeats(int,\ int[])
+comment2.text=\r\n\ Attempts\ to\ reserve\ the\ requested\ seats.\r\n\ \r\n\ @param\ row\ Row\ number\r\n\ @param\ seatNumbers\ Array\ of\ seat\ numbers\ to\ reserve\r\n\ @return\ true\ if\ reservation\ is\ successful\r\n
+comment3.params=
+comment3.target=Theater\ getTheater()
+comment3.text=\r\n\ Returns\ the\ theater\ in\ which\ this\ show\ is\ scheduled.\r\n\ \r\n\ @return\ The\ theater\ object\r\n
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Row
+comment0.text=\r\n\ Represents\ a\ row\ of\ seats\ in\ a\ theater.\r\n\ \r\n\ Stores\ and\ manages\ seat\ reservations.\r\n\ \r\n\ author\ Sarthak\ Giri\r\n\ @version\ 27/06/2025\r\n
+comment1.params=seatNumber
+comment1.target=Seat\ getSeat(int)
+comment1.text=\r\n\ Returns\ the\ seat\ by\ its\ number.\r\n\ \r\n\ @param\ seatNumber\ The\ number\ of\ the\ seat\r\n\ @return\ The\ Seat\ object\r\n
+comment2.params=seatNumbers
+comment2.target=boolean\ reserveSeats(int[])
+comment2.text=\r\n\ Attempts\ to\ reserve\ multiple\ seats\ in\ this\ row.\r\n\ \r\n\ @param\ seatNumbers\ Array\ of\ seat\ numbers\r\n\ @return\ true\ if\ all\ reservations\ are\ successful\r\n
+numComments=3

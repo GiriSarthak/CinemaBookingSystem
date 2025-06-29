@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ShowCollection
+comment0.text=\r\n\ Stores\ and\ manages\ a\ collection\ of\ movie\ shows.\r\n\ Allows\ finding\ shows\ by\ title\ and\ date.\r\n\ \r\n\ @author\ Sarthak\ Giri\r\n\ @version\ 27/06/2025\r\n
+comment1.params=title\ date
+comment1.target=java.util.List\ findShows(java.lang.String,\ java.time.LocalDate)
+comment1.text=\r\n\ Finds\ all\ shows\ matching\ a\ specific\ title\ and\ date.\r\n\ \r\n\ @param\ title\ Movie\ title\r\n\ @param\ date\ Date\ of\ the\ show\r\n\ @return\ List\ of\ matching\ shows\r\n
+comment2.params=show
+comment2.target=void\ addShow(Show)
+comment2.text=\r\n\ Adds\ a\ new\ show\ to\ the\ collection.\r\n\ \r\n\ @param\ show\ The\ show\ to\ add\r\n
+numComments=3

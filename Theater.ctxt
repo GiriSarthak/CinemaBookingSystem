@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Theater
+comment0.text=\r\n\ Represents\ a\ physical\ theater\ that\ holds\ rows\ of\ seats.\r\n\ \r\n\ Handles\ seat\ reservations\ for\ specific\ rows.\r\n\ \r\n\ author\ Sarthak\ Giri\r\n\ @version\ 27/06/2025\r\n
+comment1.params=rowNumber
+comment1.target=Row\ getRow(int)
+comment1.text=\r\n\ Retrieves\ the\ row\ with\ the\ specified\ number.\r\n\ \r\n\ @param\ rowNumber\ The\ row\ number\r\n\ @return\ The\ Row\ object\r\n
+comment2.params=row\ seatNumber
+comment2.target=boolean\ reserveSeat(int,\ int)
+comment2.text=\r\n\ Reserves\ a\ specific\ seat\ in\ a\ row.\r\n\ \r\n\ @param\ row\ Row\ number\r\n\ @param\ seatNumber\ Seat\ number\r\n\ @return\ true\ if\ successful\r\n
+numComments=3

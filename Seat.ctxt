@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Seat
+comment0.text=\r\n\ Represents\ a\ single\ seat\ in\ a\ theater.\r\n\ \r\n\ Tracks\ reservation\ status\ and\ who\ reserved\ it.\r\n\ \r\n\ author\ Sarthak\ Giri\r\n\ @version\ 27/06/2025\r\n
+comment1.params=
+comment1.target=boolean\ reserve()
+comment1.text=\r\n\ Reserves\ the\ seat.\r\n\ \r\n\ @return\ true\ when\ the\ seat\ is\ successfully\ reserved\r\n
+comment2.params=
+comment2.target=boolean\ isReserved()
+comment2.text=\r\n\ Checks\ if\ the\ seat\ is\ currently\ reserved.\r\n\ \r\n\ @return\ true\ if\ reserved\r\n
+numComments=3

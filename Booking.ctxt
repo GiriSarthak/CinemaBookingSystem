@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Booking
+comment0.text=\r\n\ Represents\ a\ booking\ linking\ a\ customer\ to\ a\ show\ and\ reserved\ seats.\r\n\ \r\n\ Stores\ booking\ data\ and\ provides\ access\ to\ details.\r\n\ \r\n\ author\ Sarthak\ Giri\r\n\ @version\ 27/06/2025\r\n
+comment1.params=
+comment1.target=Show\ getShow()
+comment1.text=\r\n\ Gets\ the\ show\ linked\ to\ this\ booking.\r\n\ \r\n\ @return\ The\ show\ object\r\n
+comment2.params=
+comment2.target=java.util.List\ getSeats()
+comment2.text=\r\n\ Gets\ the\ list\ of\ reserved\ seats.\r\n\ \r\n\ @return\ List\ of\ seats\r\n
+comment3.params=
+comment3.target=Customer\ getCustomer()
+comment3.text=\r\n\ Returns\ the\ customer\ who\ made\ this\ booking.\r\n\ \r\n\ @return\ The\ customer\r\n
+numComments=4

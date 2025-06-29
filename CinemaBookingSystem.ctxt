@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=CinemaBookingSystem
+comment1.params=title\ date
+comment1.target=java.util.List\ findShows(java.lang.String,\ java.time.LocalDate)
+comment1.text=\r\n\ Finds\ shows\ based\ on\ movie\ title\ and\ date.\r\n\ \r\n\ @param\ title\ The\ movie\ title\ to\ search\r\n\ @param\ date\ The\ date\ of\ the\ show\r\n\ @return\ A\ list\ of\ shows\ matching\ the\ title\ and\ date\r\n
+comment2.params=show\ customer\ row\ seatNumbers
+comment2.target=boolean\ reserveSeats(Show,\ Customer,\ int,\ int[])
+comment2.text=\r\n\ Attempts\ to\ reserve\ seats\ for\ a\ customer\ in\ a\ given\ show.\r\n\ \r\n\ @param\ show\ The\ show\ being\ reserved\r\n\ @param\ customer\ The\ customer\ making\ the\ reservation\r\n\ @param\ row\ The\ row\ number\r\n\ @param\ seatNumbers\ The\ array\ of\ seat\ numbers\r\n\ @return\ true\ if\ the\ reservation\ was\ successful\r\n
+comment3.params=show
+comment3.target=void\ displayShowDetails(Show)
+comment3.text=\r\n\ Displays\ detailed\ information\ about\ a\ show.\r\n\ \r\n\ @param\ show\ The\ show\ to\ display\r\n
+numComments=4
